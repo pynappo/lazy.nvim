@@ -1,5 +1,12 @@
 # Changelog
 
+## [10.16.1](https://github.com/folke/lazy.nvim/compare/v10.16.0...v10.16.1) (2024-01-23)
+
+
+### Bug Fixes
+
+* **manage:** better support for using the default colorscheme during install. See [#1277](https://github.com/folke/lazy.nvim/issues/1277) ([670a6fe](https://github.com/folke/lazy.nvim/commit/670a6fec7f9b03134849e308d87f4dc316875c46))
+
 ## [10.16.0](https://github.com/folke/lazy.nvim/compare/v10.15.1...v10.16.0) (2024-01-21)
 
 
